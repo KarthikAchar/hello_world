@@ -1,3 +1,2 @@
 # hello_world
-First repository
-edits
+some edits
